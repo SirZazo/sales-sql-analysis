@@ -1,2 +1,26 @@
+# Entornos virtuales
+venv/
+env/
+ENV/
+
+# Variables de entorno
 .env
-.ipynb_checkpoints
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Archivos de sistema
+.DS_Store
+Thumbs.db
+
+# VS Code
+.vscode/
+
+# Logs
+*.log
